@@ -12,7 +12,7 @@ The application includes:
 - client connection monitoring and timeout detection
 - server-side commands for managing active users
 
-This project was developed to explore core networking concepts such as UDP communication, datagram-based messaging, concurrent send/receive operations, and client-server coordination.
+This project was developed to explore core networking concepts, including UDP communication, datagram-based messaging, concurrent send/receive operations, and client-server coordination.
 
 ## Features
 
